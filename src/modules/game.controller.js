@@ -1,3 +1,4 @@
+/**hi**/
 import * as model from "./game.model.js";
 
 export const onAttackButton = () => {
